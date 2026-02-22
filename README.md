@@ -1,24 +1,121 @@
-# 💫 About Me:
-🔭 I’m currently working on AI-based real-world systems and embedded ML applications  <br>🤝 I’m looking to collaborate on Machine Learning, Computer Vision & Intelligent Systems  <br>🧠 I’m currently learning Advanced Deep Learning & System Design  <br>💬 Ask me about Python, ML models, Hackathons & Research Projects  <br>🚀 Fun fact: I love building practical AI systems that solve real problems
+<!-- ===================== HEADER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0F2027&height=120&section=header&text=Ravi%20Shankar&fontSize=40&fontColor=ffffff"/>
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&duration=3000&pause=1200&color=00C9A7&center=true&vCenter=true&width=1000&lines=CSE+(AIML)+Student;Machine+Learning+Developer;Full-Stack+Project+Builder;AI+for+Social+Impact;Embedded+Systems+Enthusiast"/>
+</h2>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ravish4nk?igsh=b2c3MmRyYmZnOWY1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ravi-shankar-b-77b5b9377/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravishankarx2005@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=plastic&logo=snowflake&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shanky-ux&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shanky-ux&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shanky-ux&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shanky-ux&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<p align="center">
+  <b>Machine Learning · AI Applications · Social Impact Projects · Embedded Systems</b>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shanky-ux&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Core Skills & Technologies
+
+<table width="100%" align="center">
+<tr>
+
+<td width="33%" valign="top">
+
+### Programming
+<img src="https://skillicons.dev/icons?i=python,c,cpp,linux&theme=dark"/>
+
+<br>
+
+### AI / ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark"/>
+
+</td>
+
+<td width="33%" valign="top">
+
+### Data & Backend
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark"/>
+<img height="44" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/numpy.svg" style="filter: invert(1);"/>
+<img height="44" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/pandas.svg" style="filter: invert(1);"/>
+
+<br>
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+
+</td>
+
+<td width="33%" valign="top">
+
+### Embedded & Hardware
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark"/>
+
+<br>
+
+### Creative Tools
+<img src="https://skillicons.dev/icons?i=photoshop,premierepro&theme=dark"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Featured Projects
+
+| Project | Description |
+|---------|------------|
+| **Old Age Home Management App** | Digital system for NGO administration & elderly data management |
+| **AI Skin Disease Classifier** | Machine Learning model for skin condition detection |
+| **Smart Irrigation Predictor (ESP32)** | Embedded system predicting irrigation needs |
+| **Community Connect App** | NGO data storage & management solution |
+| **Dragon Loft** | YouTube & Instagram platform focused on pigeon awareness |
+
+---
+
+## Internship Experience
+
+**Machine Learning Intern – Prodigy Infotech**  
+📅 Dec 2024 – Jan 2025  
+✔ Completed ML tasks  
+✔ Received Internship Certificate & Letter of Recommendation  
+
+---
+
+## Certifications
+
+- Python Certification – HackerRank  
+- Machine Learning Internship Completion – Prodigy Infotech  
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0F2027&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7"/>
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0F2027&height=90&section=footer"/>
