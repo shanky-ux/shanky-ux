@@ -1,121 +1,98 @@
-<!-- ===================== HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0F2027&height=120&section=header&text=Ravi%20Shankar&fontSize=40&fontColor=ffffff"/>
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&duration=3000&pause=1200&color=00C9A7&center=true&vCenter=true&width=1000&lines=CSE+(AIML)+Student;Machine+Learning+Developer;Full-Stack+Project+Builder;AI+for+Social+Impact;Embedded+Systems+Enthusiast"/>
-</h2>
+<h1 align="center">Hey 👋 I'm Ravi Shankar</h1>
+<h3 align="center">CSE (AIML) Student | AI & ML Enthusiast | Backend Developer</h3>
 
 <p align="center">
-  <b>Machine Learning · AI Applications · Social Impact Projects · Embedded Systems</b>
+Passionate about building real-world AI applications, embedded systems, and backend solutions focused on practical impact.
 </p>
 
 ---
 
-## Core Skills & Technologies
+## 🏆 Tech Achievements
 
-<table width="100%" align="center">
-<tr>
-
-<td width="33%" valign="top">
-
-### Programming
-<img src="https://skillicons.dev/icons?i=python,c,cpp,linux&theme=dark"/>
-
-<br>
-
-### AI / ML
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark"/>
-
-</td>
-
-<td width="33%" valign="top">
-
-### Data & Backend
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark"/>
-<img height="44" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/numpy.svg" style="filter: invert(1);"/>
-<img height="44" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/pandas.svg" style="filter: invert(1);"/>
-
-<br>
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
-
-</td>
-
-<td width="33%" valign="top">
-
-### Embedded & Hardware
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark"/>
-
-<br>
-
-### Creative Tools
-<img src="https://skillicons.dev/icons?i=photoshop,premierepro&theme=dark"/>
-
-</td>
-
-</tr>
-</table>
+| # | Event | Domain | Achievement |
+|---|------|--------|-------------|
+| 1 | YUVA National Hackathon | Hardware | 🥇 Winner |
+| 2 | DigiGreen Hackathon | AI / ML | 4th Place |
+| 3 | Community Connect Project | NGO Application | Successfully Deployed |
 
 ---
 
-## Featured Projects
+## 💻 Tech Stack
 
-| Project | Description |
-|---------|------------|
-| **Old Age Home Management App** | Digital system for NGO administration & elderly data management |
-| **AI Skin Disease Classifier** | Machine Learning model for skin condition detection |
-| **Smart Irrigation Predictor (ESP32)** | Embedded system predicting irrigation needs |
-| **Community Connect App** | NGO data storage & management solution |
-| **Dragon Loft** | YouTube & Instagram platform focused on pigeon awareness |
+### 🧑‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
----
+### 🤖 AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-## Internship Experience
-
-**Machine Learning Intern – Prodigy Infotech**  
-📅 Dec 2024 – Jan 2025  
-✔ Completed ML tasks  
-✔ Received Internship Certificate & Letter of Recommendation  
-
----
-
-## Certifications
-
-- Python Certification – HackerRank  
-- Machine Learning Internship Completion – Prodigy Infotech  
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
 
 ---
 
-## Contribution Activity
+## 🚀 Featured Projects
+
+### 🔹 Old Age Home Management App  
+NGO administration system for managing elderly records and digital data storage.  
+**Tech:** Python, Firebase  
+🔗 https://github.com/YOUR_GITHUB_USERNAME/old-age-home-app  
+
+---
+
+### 🔹 AI Skin Disease Classifier  
+Machine learning-based image classification system for detecting skin conditions.  
+**Tech:** Python, ML, OpenCV  
+
+---
+
+### 🔹 Smart Irrigation Predictor  
+ESP32-based smart irrigation system using predictive analysis.  
+**Tech:** IoT, Embedded Systems, ML  
+
+---
+
+### 🔹 Community Connect App  
+Application built for NGO data management during field visit project.  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical"/>
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical"/>
 </p>
 
 ---
 
-## Contribution Streak
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0F2027&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/YOUR_PAGE">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_ID">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 </p>
 
 ---
 
-## Connect With Me
-
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C9A7&center=true&vCenter=true&lines=CSE+AIML+Student;Machine+Learning+Developer;Building+AI+for+Real+World+Impact;Always+Learning+🚀" />
 </p>
-
-<!-- ===================== FOOTER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0F2027&height=90&section=footer"/>
