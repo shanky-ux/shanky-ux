@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0F2027&height=120&section=header&text=Ravi%20Shankar&fontSize=40&fontColor=ffffff"/>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&duration=3000&pause=1200&color=00C9A7&center=true&vCenter=true&width=1000&lines=CSE+(AIML)+Student;Machine+Learning+Developer;AI+for+Social+Impact;Embedded+Systems+Enthusiast;Backend+Application+Builder"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=26&duration=2800&pause=1200&color=00C9A7&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer;AI+Systems+Developer;Intelligent+Application+Architect;Backend+Systems+Builder;Computer+Vision+Practitioner"/>
 </h2>
 
 <p align="center">
