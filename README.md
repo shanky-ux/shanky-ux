@@ -6,7 +6,7 @@
 </h2>
 
 <p align="center">
-  <b>Machine Learning · AI Applications · Embedded Systems · Backend Developmen</b>
+  <b>Machine Learning · AI Applications · Embedded Systems · Backend Development</b>
 </p>
 
 ---
