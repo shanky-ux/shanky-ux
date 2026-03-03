@@ -48,13 +48,13 @@
 <br>
 
 ### Creative Tools
-<img src="https://skillicons.dev/icons?i=photoshop,premierepro&theme=dark"/>
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-original.svg"/>
 
-</td>
-
-</tr>
-</table>
+<p align="left">
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"/>
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-original.svg"/>
+</p>
 
 ---
 
