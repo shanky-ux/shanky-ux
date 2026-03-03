@@ -21,7 +21,7 @@
 ### Programming & Systems
 <img src="https://skillicons.dev/icons?i=python,c,linux,git&theme=dark"/>
 
-<br>
+<br><br>
 
 ### AI / ML
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark"/>
@@ -33,7 +33,7 @@
 ### Backend & Databases
 <img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark"/>
 
-<br>
+<br><br>
 
 ### Tools & Development
 <img src="https://skillicons.dev/icons?i=github,vscode&theme=dark"/>
@@ -45,16 +45,21 @@
 ### Embedded & IoT
 <img src="https://skillicons.dev/icons?i=arduino&theme=dark"/>
 
-<br>
+<br><br>
 
 ### Creative Tools
 
-<p align="left">
+<p>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg"/>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"/>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-original.svg"/>
 </p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
