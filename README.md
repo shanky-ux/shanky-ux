@@ -103,7 +103,7 @@
 <p align="center">
   <a href="mailto:ravishankarx2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  
 
   <a href="https://www.linkedin.com/in/ravi-shankar-b-77b5b9377/">
     <img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=white"/>
