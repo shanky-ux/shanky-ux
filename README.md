@@ -53,6 +53,7 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg"/>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"/>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-original.svg"/>
 </p>
 
 </td>
@@ -62,10 +63,26 @@
 
 ---
 
-## Contribution Activity
+## GitHub Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shanky-ux/shanky-ux/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shanky-ux&theme=dark&hide_border=true&background=0F2027&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7"/>
+</p>
+
+---
+
+## LeetCode Performance
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ravishankar07?theme=dark&font=Space%20Grotesk&ext=heatmap"/>
 </p>
 
 ---
@@ -79,14 +96,6 @@
 | **Machine Learning Internship – Prodigy Infotech** | Industry Internship | Certificate + LOR |
 | **Community Connect Project** | NGO Application | Successfully Deployed |
 | **HackerRank Python Certification** | Programming | Certified |
-
----
-
-## Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shanky-ux&theme=dark&hide_border=true&background=0F2027&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7"/>
-</p>
 
 ---
 
@@ -104,7 +113,13 @@
   <a href="https://github.com/shanky-ux">
     <img src="https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
+  <a href="https://leetcode.com/ravishankar07/">
+    <img src="https://img.shields.io/badge/LeetCode-0F2027?style=for-the-badge&logo=leetcode&logoColor=orange"/>
+  </a>
 </p>
+
+---
 
 <!-- ===================== FOOTER ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0F2027&height=90&section=footer"/>
