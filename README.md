@@ -22,7 +22,7 @@
 - 👁️ Exploring **Computer Vision & Edge AI**
 - 🥇 **National Hackathon Winner** — YUVA Hardware Track
 - 🌱 Currently diving deeper into **LLMs & Multimodal AI**
-- 💬 Ask me about **PyTorch, OpenCV, Arduino, or AI pipelines**
+- 💬 Ask me about **PyTorch, OpenCV, or AI pipelines**
 - 📫 Reach me at **ravishankarx2005@gmail.com**
 
 <br clear="right"/>
