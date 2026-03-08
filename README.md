@@ -103,7 +103,7 @@
 
 | Event | Domain | Recognition |
 |------|--------|--------------|
-| **YUVA National Hackathon** | Hardware | ₹5000 |
+| **YUVA National Hackathon** | Hardware | ₹5,000 |
 | **DigiGreen Hackathon** | AI / ML | 🏆 4th Place |
 | **Machine Learning Internship – Prodigy Infotech** | Industry Internship | Certificate + LOR |
 | **Community Connect Project** | NGO Application | Successfully Deployed |
