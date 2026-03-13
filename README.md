@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-- 🤖 Passionate about **Machine Learning & AI System**
+- 🤖 Passionate about **Machine Learning & AI Systems**
 - 🔬 Building at the intersection of **ML and Embedded Hardware**
 - 👁️ Exploring **Computer Vision & Edge AI**
 - 🥇 **National Hackathon Winner** — YUVA Hardware Track
