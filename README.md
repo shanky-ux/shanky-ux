@@ -20,7 +20,7 @@
 - 🤖 Passionate about **Machine Learning & AI Systems**
 - 🔬 Building at the intersection of **ML and Embedded Hardware**
 - 👁️ Exploring **Computer Vision & Edge AI**
-- 🥇 **National Hackathon Winner** — YUVA Hardware Trac
+- 🥇 **National Hackathon Winner** — YUVA Hardware Track
 - 🌱 Currently diving deeper into **LLMs & Multimodal AI**
 - 💬 Ask me about **PyTorch, OpenCV, or AI pipelines**
 - 📫 Reach me at **ravishankarx2005@gmail.com**
