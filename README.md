@@ -9,23 +9,31 @@
   <b>Machine Learning · AI Applications · Embedded Systems · Backend Development</b>
 </p>
 
+<p align="center">
+  <a href="mailto:ravishankarx2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ravi-shankar-b-77b5b9377/">
+    <img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shanky-ux">
+    <img src="https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/ravishankar07/">
+    <img src="https://img.shields.io/badge/LeetCode-0F2027?style=for-the-badge&logo=leetcode&logoColor=orange"/>
+  </a>
+</p>
+
 ---
 
-<!-- ===================== ABOUT + GRAPHIC ===================== -->
+## About Me
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+> **Machine Learning Engineer** passionate about building AI systems at the intersection of ML and embedded hardware. Exploring Computer Vision, Edge AI, and LLMs.
 
-### 👨‍💻 About Me
-
-- 🤖 Passionate about **Machine Learning & AI Systems**
-- 🔬 Building at the intersection of **ML and Embedded Hardware**
-- 👁️ Exploring **Computer Vision & Edge AI**
-- 🥇 **National Hackathon Winner** — YUVA Hardware Track
-- 🌱 Currently diving deeper into **LLMs & Multimodal AI**
-- 💬 Ask me about **PyTorch, OpenCV, or AI pipelines**
-- 📫 Reach me at **ravishankarx2005@gmail.com**
-
-<br clear="right"/>
+- 🥇 **YUVA National Hackathon Winner** (Hardware Track) · **DigiGreen Hackathon — 4th Place**
+- Building at the intersection of **ML, Computer Vision, and Embedded Hardware**
+- Currently diving deeper into **LLMs & Multimodal AI**
+- ML Intern @ **Prodigy Infotech** · **HackerRank Python Certified**
 
 ---
 
@@ -75,35 +83,11 @@
 
 ---
 
-## GitHub Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shanky-ux/shanky-ux/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-## GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shanky-ux&theme=dark&hide_border=true&background=0F2027&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7"/>
-</p>
-
----
-
-## LeetCode Performance
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ravishankar07?theme=dark&font=Space%20Grotesk&ext=heatmap"/>
-</p>
-
----
-
 ## Achievements & Events
 
 | Event | Domain | Recognition |
 |------|--------|--------------|
-| **YUVA National Hackathon** | Hardware | ₹5,000 |
+| **YUVA National Hackathon** | Hardware | 🥇 Winner — ₹5,000 |
 | **DigiGreen Hackathon** | AI / ML | 🏆 4th Place |
 | **Machine Learning Internship – Prodigy Infotech** | Industry Internship | Certificate + LOR |
 | **Community Connect Project** | NGO Application | Successfully Deployed |
@@ -111,21 +95,53 @@
 
 ---
 
-## Connect With Me
+## Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[Project Name](https://github.com/shanky-ux)** | Brief description of what it does | Python · PyTorch · OpenCV |
+| **[Project Name](https://github.com/shanky-ux)** | Brief description of what it does | Arduino · Firebase |
+
+> 💡 *Add your projects here — pin your best repos and link them above!*
+
+---
+
+## Experience
+
+| Role | Company | Period | Type |
+|------|---------|--------|------|
+| **ML Intern** | Prodigy Infotech | — | Remote |
+
+---
+
+## Education
+
+| Degree | Institution | Period | Grade |
+|--------|-------------|--------|-------|
+| **B.E / B.Tech** | Your College | 2023 – 2027 | — |
+
+---
+
+## Contribution Activity
 
 <p align="center">
-  <a href="mailto:ravishankarx2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ravi-shankar-b-77b5b9377/">
-    <img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/shanky-ux">
-    <img src="https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/ravishankar07/">
-    <img src="https://img.shields.io/badge/LeetCode-0F2027?style=for-the-badge&logo=leetcode&logoColor=orange"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/shanky-ux/shanky-ux/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shanky-ux&theme=dark&hide_border=true&background=0F2027&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7"/>
+</p>
+
+---
+
+## LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ravishankar07?theme=dark&font=Space%20Grotesk&ext=heatmap"/>
 </p>
 
 ---
