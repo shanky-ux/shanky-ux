@@ -106,7 +106,7 @@
 
 ---
 
-## Experience
+## Experiences
 
 | Role | Company | Period | Type |
 |------|---------|--------|------|
