@@ -30,6 +30,7 @@
 
 > **Machine Learning Engineer** passionate about building AI systems at the intersection of ML and embedded hardware. Exploring Computer Vision, Edge AI, and LLMs.
 
+- 🥇 **CareHack'26 Winner** (AI/ML Track) · ₹30,000 Cash Prize · Internship @ Vdart
 - 🥇 **YUVA National Hackathon Winner** (Hardware Track) · **DigiGreen Hackathon — 4th Place**
 - Building at the intersection of **ML, Computer Vision, and Embedded Hardware**
 - Currently diving deeper into **LLMs & Multimodal AI**
@@ -87,6 +88,7 @@
 
 | Event | Domain | Recognition |
 |------|--------|--------------|
+| **CareHack'26** | AI / ML | 🥇 1st Place — ₹30,000 + Internship @ Vdart |
 | **YUVA National Hackathon** | Hardware | 🥇 Winner — ₹5,000 |
 | **DigiGreen Hackathon** | AI / ML | 🏆 4th Place |
 | **Machine Learning Internship – Prodigy Infotech** | Industry Internship | Certificate + LOR |
@@ -110,6 +112,7 @@
 
 | Role | Company | Period | Type |
 |------|---------|--------|------|
+| **ML Intern** | Vdart *(via CareHack'26 Prize)* | 2026 | Internship |
 | **ML Intern** | Prodigy Infotech | — | Remote |
 
 ---
