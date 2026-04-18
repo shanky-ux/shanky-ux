@@ -87,7 +87,7 @@
 ## Achievements & Events
 
 | Event | Domain | Recognition |
-|------|--------|--------------|
+|-------|--------|-------------|
 | **CareHack'26** | AI / ML | 🥇 1st Place — ₹30,000 + Internship @ Vdart |
 | **YUVA National Hackathon** | Hardware | 🥇 Winner — ₹5,000 |
 | **DigiGreen Hackathon** | AI / ML | 🏆 4th Place |
@@ -101,10 +101,12 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[Project Name](https://github.com/shanky-ux)** | Brief description of what it does | Python · PyTorch · OpenCV |
-| **[Project Name](https://github.com/shanky-ux)** | Brief description of what it does | Arduino · Firebase |
-
-> 💡 *Add your projects here — pin your best repos and link them above!*
+| **[OrbitXOS](https://github.com/shanky-ux/OrbitXOS)** | Futuristic space-inspired interactive web dashboard with seamless backend AI | JavaScript · React · Vite · Tailwind CSS |
+| **[Applivo](https://github.com/shanky-ux/Applivo-Distributed-Opportunity-Application-Orchestration-System)** | Advanced AI-powered orchestration framework for discovering opportunities & automating applications | Python · FastAPI · OpenAI |
+| **[Predicting Student Performance with ML](https://github.com/shanky-ux/Predicting-Student-Performance-with-Machine-Learning)** | Machine learning model to predict student academic performance | Python · Jupyter Notebook · Sklearn |
+| **[digiverify-ai](https://github.com/shanky-ux/digiverify-ai)** | AI-powered digital verification system | Python |
+| **[Customer Churn Batch Prediction](https://github.com/shanky-ux/Customer_Churn_BatchPrediction)** | Batch prediction system for customer churn analysis | JavaScript |
+| **[Ngo-Oldage-Home-Management-App](https://github.com/shanky-ux/Ngo-Oldage-Home-Management-App)** | NGO management application for old age home administration | TypeScript |
 
 ---
 
