@@ -63,16 +63,25 @@
 ### Full-Stack & Backend
 <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,mysql,postgres,firebase&theme=dark"/>
 
-</td>
-<td width="33%" valign="top">
+<br><br>
 
 ### Infra & Tools
 <img src="https://skillicons.dev/icons?i=docker,github,vscode&theme=dark"/>
 
-<br><br>
+</td>
+<td width="33%" valign="top">
 
 ### Embedded & IoT
 <img src="https://skillicons.dev/icons?i=arduino&theme=dark"/>
+
+<br><br>
+
+### Creative Tools
+<p>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>
+</p>
 
 </td>
 </tr>
