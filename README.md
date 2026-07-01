@@ -135,10 +135,6 @@
 | Degree | Institution | Period | CGPA |
 |--------|-------------|--------|------|
 | **B.Tech, CSE (AI & ML)** | SRM Institute of Science and Technology (SRMIST) | 2023 – 2027 | 8.32 / 10 |
-
-📍 Chennai · Open to relocating to Bangalore / Hyderabad
-🎯 JEE Mains — 95.99 percentile
-
 ---
 
 ## Contribution Activity
