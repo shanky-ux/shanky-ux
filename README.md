@@ -112,7 +112,7 @@
 | **[Applivo](https://applivo.in)** | Full-stack SaaS platform for discovering opportunities & automating applications, self-hosted on Oracle Cloud ARM VM | Python · FastAPI · Next.js · Docker Compose |
 | **[OrbitXOS](orbitxos-5b09.onrender.com)** | Futuristic space-inspired interactive web dashboard with seamless backend AI | JavaScript · React · Vite · Tailwind CSS |
 | **[digiverify-ai](https://digiverify-ai-6.onrender.com)** | AI-powered digital verification system | Python |
-| **[Skin Disease Classifier](skinscanai.vercel.app)** | Computer vision model for skin disease classification | Python · TensorFlow / PyTorch |
+| **[Skin Disease Classifier](https://skinscanai.vercel.app/)** | Computer vision model for skin disease classification | Python · TensorFlow / PyTorch |
 | **[Predicting Student Performance with ML](https://predicting-student-performance-with.onrender.com)** | Machine learning model to predict student academic performance | Python · Jupyter Notebook · Sklearn |
 | **[Customer Churn Batch Prediction](https://github.com/shanky-ux/Customer_Churn_BatchPrediction)** | Batch prediction system for customer churn analysis | JavaScript |
 | **[Ngo-Oldage-Home-Management-App](https://github.com/shanky-ux/Ngo-Oldage-Home-Management-App)** | NGO management application for old age home administration | TypeScript |
