@@ -1,71 +1,142 @@
 <h1 align="center">Ravi Shankar</h1>
 
 <p align="center">
-  Machine learning and full-stack engineer<br>
-  B.Tech CSE (AI & ML), SRMIST · Chennai, India
+  Machine Learning Engineer · Full-Stack Developer · Open Source Contributor
 </p>
 
 <p align="center">
-  <a href="https://ravish4nkar.vercel.app">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/ravi-shankar-b-77b5b9377/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:ravishankarx2005@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://ravish4nkar.vercel.app">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/ravi-shankar-b-77b5b9377/">LinkedIn</a>
+  ·
+  <a href="mailto:ravishankarx2005@gmail.com">Email</a>
+  ·
   <a href="https://leetcode.com/ravishankar07/">LeetCode</a>
+</p>
+
+---
+
+<h2 align="center">AI / ML Engineer</h2>
+
+<p align="center">
+  Building ML-powered products from model → API → interface → deployment.
 </p>
 
 <br>
 
-I build ML-powered products end to end: model, API, interface and deployment. Currently shipping **[Applivo](https://applivo.in)**, a SaaS platform for opportunity discovery and application automation, and contributing to open source in **Token Print** and **Telex**. Looking for SWE / ML internships.
+<!-- animated visual here -->
 
 ---
 
-### Recognition
+## Technologies I Build With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,typescript,javascript,react,nextjs,fastapi,flask,pytorch,tensorflow,opencv,sklearn,postgres,mysql,docker,linux,git,github,arduino,gcp&perline=7&theme=dark"/>
+</p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shanky-ux&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanky-ux&layout=compact&hide_border=true&theme=transparent&langs_count=8"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanky-ux&theme=github-compact&hide_border=true"/>
+</p>
+
+---
+
+## Recognition
 
 | Year | Event | Result |
 |------|-------|--------|
-| 2026 | CareHack'26 (AI / ML) | 1st place · ₹30,000 prize and internship offer from Vdart |
-| 2026 | YUVA National Hackathon (Hardware) | Winner |
-| 2024 | Amazon ML Challenge | Top 1% · Rank 62 of 6,223 |
-| — | DigiGreen Hackathon | 4th place |
-| — | IEEE publication | Co-author, IoT-based backpack load alert system |
+| 2026 | CareHack'26 | 1st Place · ₹30,000 + Internship |
+| 2026 | YUVA National Hackathon | Winner |
+| 2024 | Amazon ML Challenge | Top 1% · Rank 62 / 6,223 |
+| — | DigiGreen Hackathon | 4th Place |
+| — | IEEE Publication | Co-author |
 
-### Open Source
+---
 
-Contributions to **Token Print** and **Telex**. [View merged pull requests](https://github.com/search?q=author%3Ashanky-ux+type%3Apr+is%3Amerged&type=pullrequests)
+## Open Source
 
-### Selected Work
+Contributing to projects including:
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Applivo](https://applivo.in) | SaaS platform for discovering opportunities and automating applications, self-hosted on an Oracle Cloud ARM VM | FastAPI, Next.js, Docker Compose |
-| [DigiVerify AI](https://digiverify-ai-6.onrender.com) | AI-powered digital verification and fraud detection | Python, Flask, MySQL |
-| [SkinScan AI](https://skinscanai.vercel.app/) | Skin disease classification with a CNN, served through a web app | PyTorch, FastAPI, Next.js |
-| [OrbitXOS](https://orbitxos-5b09.onrender.com) | Interactive space dashboard with a backend AI layer | React, Vite, Tailwind CSS |
-| [Student Performance Predictor](https://predicting-student-performance-with.onrender.com) | ML model predicting academic performance | Python, scikit-learn |
-| [Customer Churn Batch Prediction](https://github.com/shanky-ux/Customer_Churn_BatchPrediction) | Batch prediction pipeline for customer churn | JavaScript |
+- **Token Print**
+- **Telex**
 
-More on [GitHub](https://github.com/shanky-ux?tab=repositories).
+<a href="https://github.com/search?q=author%3Ashanky-ux+type%3Apr+is%3Amerged&type=pullrequests">
+  View my merged pull requests →
+</a>
 
-### Experience
+---
+
+## Selected Work
+
+### 🚀 Applivo
+
+SaaS platform for opportunity discovery and application automation.
+
+**FastAPI · Next.js · Docker Compose · Oracle Cloud**
+
+[Live →](https://applivo.in)
+
+### 🧬 SkinScan AI
+
+AI-powered skin disease classification system.
+
+**PyTorch · FastAPI · Next.js**
+
+[Live →](https://skinscanai.vercel.app/)
+
+### 🛰️ OrbitXOS
+
+Interactive space debris tracking and collision-awareness platform.
+
+**React · Vite · Tailwind CSS · Cesium · Skyfield**
+
+[Live →](https://orbitxos-5b09.onrender.com)
+
+### 🔐 DigiVerify AI
+
+AI-powered digital verification and fraud detection platform.
+
+**Python · Flask · MySQL**
+
+[Live →](https://digiverify-ai-6.onrender.com)
+
+### 📊 Student Performance Predictor
+
+Machine learning model for predicting student academic performance.
+
+**Python · Scikit-learn**
+
+[Live →](https://predicting-student-performance-with.onrender.com)
+
+---
+
+## Experience
 
 | Role | Organization | Focus |
 |------|--------------|-------|
-| ML Intern | Vdart | Awarded through CareHack'26 |
-| ML Intern | Prodigy InfoTech | Remote · ~40% runtime reduction |
-| Systems Development Intern | C-DAC Chennai | Linux systems development |
+| ML Intern | Vdart | AI / ML |
+| ML Intern | Prodigy InfoTech | Machine Learning |
+| Systems Development Intern | C-DAC Chennai | Linux Systems |
 
-### Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,typescript,pytorch,tensorflow,opencv,sklearn,react,nextjs,fastapi,flask,postgres,mysql,docker,linux,git,arduino&theme=dark"/>
-</p>
-
-### Activity
+---
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shanky-ux&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanky-ux&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=c9d1d9&langs_count=6"/>
+  <a href="https://github.com/shanky-ux">
+    <img src="https://komarev.com/ghpvc/?username=shanky-ux&style=flat-square&color=2DD4BF"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanky-ux&bg_color=0D1117&color=c9d1d9&line=2DD4BF&point=ffffff&area=true&area_color=2DD4BF&hide_border=true"/>
+  <i>Building things at the intersection of AI, software and real-world problems.</i>
 </p>
