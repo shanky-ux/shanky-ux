@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1140" height="810" viewBox="0 0 1140 810" font-family="'JetBrains Mono','Fira Code','Courier New',monospace">
+<defs><linearGradient id="ag" gradientUnits="userSpaceOnUse" x1="40" y1="170" x2="380" y2="540"><stop offset="0" stop-color="#c5ff4a"/><stop offset="1" stop-color="#f2d94a"/></linearGradient></defs>
+<rect width="1140" height="810" fill="#060606"/>
+<rect x="10" y="10" width="1120" height="100" fill="#0b0b0b" stroke="#252525"/>
+<text x="20" y="24" font-size="12" fill="#c5ff4a" text-anchor="middle">+</text>
+<text x="1120" y="24" font-size="12" fill="#c5ff4a" text-anchor="middle">+</text>
+<text x="40" y="66" font-size="38" fill="#e8e8e8" letter-spacing="2">Ravi Shankar</text>
+<text x="40" y="94" font-size="17" font-weight="bold" fill="#c5ff4a">@shanky-ux</text>
+<text x="1100" y="60" font-size="14" fill="#7d8590" text-anchor="end">[ SRMIST · Chennai ]</text>
+<rect x="10" y="125" width="380" height="440" fill="#0b0b0b" stroke="#252525"/>
+<text x="20" y="139" font-size="12" fill="#c5ff4a" text-anchor="middle">+</text>
+<text x="380" y="139" font-size="12" fill="#c5ff4a" text-anchor="middle">+</text>
+<g font-family="'Courier New',monospace" font-size="7.5" fill="url(#ag)" xml:space="preserve" style="white-space:pre">
+<text x="38" y="172.0"></text>
+<text x="38" y="182.4"></text>
+<text x="38" y="192.8"></text>
+<text x="38" y="203.2"></text>
+<text x="38" y="213.6"></text>
+<text x="38" y="224.0"></text>
+<text x="38" y="234.4"></text>
+<text x="38" y="244.8"></text>
+<text x="38" y="255.2"></text>
+<text x="38" y="265.6"></text>
+<text x="38" y="276.0"></text>
+<text x="38" y="286.4">                                                                      .:</text>
+<text x="38" y="296.8">                                                                    .:::</text>
+<text x="38" y="307.2">                                                                   .-:..</text>
+<text x="38" y="317.6">                                                                   :.  .</text>
+<text x="38" y="328.0">                                                                  ..</text>
+<text x="38" y="338.4">  .</text>
+<text x="38" y="348.8">  .      .                                                       .    .</text>
+<text x="38" y="359.2">                                                                      .</text>
+<text x="38" y="369.6"></text>
+<text x="38" y="380.0">                                               .=-.*:</text>
+<text x="38" y="390.4">                                               -#: +-  .....           .</text>
+<text x="38" y="400.8">                                                        ...::::.....   .</text>
+<text x="38" y="411.2"></text>
+<text x="38" y="421.6">.</text>
+<text x="38" y="432.0">*.</text>
+<text x="38" y="442.4">**.                                                          .::</text>
+<text x="38" y="452.8">***===.                                          ......   .-*#%%*.</text>
+<text x="38" y="463.2">***#=                                          -+**+=---=+#%%%##%*.</text>
+<text x="38" y="473.6">****+                                        .=**##%%%%@@@%##%###%*.</text>
+<text x="38" y="484.0">****:                                 .     .=**##%%#**==#@@#*#*###:</text>
+<text x="38" y="494.4">****:                                      -+*#%%%+.     :=+**#%#%=</text>
+<text x="38" y="504.8">****+:    ... .                          .-++#%%%+          :@%%@*</text>
+<text x="38" y="515.2">*****#+.    ..        .                 :=++#%%%=            *@%%:</text>
+<text x="38" y="525.6">******##+=-...        .               .=++*#%%%=             *%%%-</text>
+<text x="38" y="536.0">********####*+-       .              :=++*#%%%+            :*%%%%%*:</text>
+</g>
+<rect x="410" y="125" width="720" height="440" fill="#0b0b0b" stroke="#252525"/>
+<text x="420" y="139" font-size="12" fill="#c5ff4a" text-anchor="middle">+</text>
+<text x="1120" y="139" font-size="12" fill="#c5ff4a" text-anchor="middle">+</text>
+<text x="440" y="170" font-size="16" fill="#58a6ff">shanky@github</text>
+<line x1="578.8" y1="165" x2="1100" y2="165" stroke="#252525"/>
+<text x="440" y="197" font-size="16" fill="#f2d94a">Education:</text>
+<text x="1100" y="197" font-size="16" fill="#e8e8e8" text-anchor="end">B.Tech CSE (AI &amp; ML)</text>
+<line x1="548.0" y1="193" x2="896.0" y2="193" stroke="#7d8590" stroke-dasharray="1 6" stroke-linecap="round"/>
+<text x="440" y="223" font-size="16" fill="#f2d94a">University:</text>
+<text x="1100" y="223" font-size="16" fill="#e8e8e8" text-anchor="end">SRM IST</text>
+<line x1="557.6" y1="219" x2="1020.8" y2="219" stroke="#7d8590" stroke-dasharray="1 6" stroke-linecap="round"/>
+<text x="440" y="249" font-size="16" fill="#f2d94a">Location:</text>
+<text x="1100" y="249" font-size="16" fill="#e8e8e8" text-anchor="end">Chennai, India</text>
+<line x1="538.4" y1="245" x2="953.6" y2="245" stroke="#7d8590" stroke-dasharray="1 6" stroke-linecap="round"/>
+<text x="440" y="275" font-size="16" fill="#f2d94a">Languages:</text>
+<text x="1100" y="275" font-size="16" fill="#e8e8e8" text-anchor="end">Python, TypeScript, JS, C</text>
+<line x1="548.0" y1="271" x2="848.0" y2="271" stroke="#7d8590" stroke-dasharray="1 6" stroke-linecap="round"/>
+<text x="440" y="301" font-size="16" fill="#f2d94a">Highlights:</text>
+<text x="1100" y="301" font-size="16" fill="#e8e8e8" text-anchor="end">CareHack&#x27;26 1st, Amazon ML Top 1%</text>
+<line x1="557.6" y1="297" x2="771.2" y2="297" stroke="#7d8590" stroke-dasharray="1 6" stroke-linecap="round"/>
+<text x="440" y="333" font-size="16" fill="#58a6ff">Contact</text>
+<line x1="521.2" y1="328" x2="1100" y2="328" stroke="#252525"/>
+<text x="440" y="360" font-size="16" fill="#f2d94a">Website:</text>
+<text x="1100" y="360" font-size="16" fill="#e8e8e8" text-anchor="end">ravish4nkar.vercel.app</text>
+<line x1="528.8" y1="356" x2="876.8" y2="356" stroke="#7d8590" stroke-dasharray="1 6" stroke-linecap="round"/>
+<text x="440" y="386" font-size="16" fill="#f2d94a">GitHub:</text>
+<text x="1100" y="386" font-size="16" fill="#e8e8e8" text-anchor="end">github.com/shanky-ux</text>
+<line x1="519.2" y1="382" x2="896.0" y2="382" stroke="#7d8590" stroke-dasharray="1 6" stroke-linecap="round"/>
+<text x="440" y="412" font-size="16" fill="#f2d94a">LinkedIn:</text>
+<text x="1100" y="412" font-size="16" fill="#e8e8e8" text-anchor="end">in/ravi-shankar-b-77b5b9377</text>
+<line x1="538.4" y1="408" x2="828.8" y2="408" stroke="#7d8590" stroke-dasharray="1 6" stroke-linecap="round"/>
+<text x="440" y="438" font-size="16" fill="#f2d94a">LeetCode:</text>
+<text x="1100" y="438" font-size="16" fill="#e8e8e8" text-anchor="end">leetcode.com/ravishankar07</text>
+<line x1="538.4" y1="434" x2="838.4" y2="434" stroke="#7d8590" stroke-dasharray="1 6" stroke-linecap="round"/>
+<text x="440" y="470" font-size="16" fill="#58a6ff">Experience</text>
+<line x1="550.0" y1="465" x2="1100" y2="465" stroke="#252525"/>
+<text x="440" y="497" font-size="16" fill="#f2d94a">ML Intern:</text>
+<text x="1100" y="497" font-size="16" fill="#e8e8e8" text-anchor="end">Vdart · Prodigy InfoTech</text>
+<line x1="548.0" y1="493" x2="857.6" y2="493" stroke="#7d8590" stroke-dasharray="1 6" stroke-linecap="round"/>
+<text x="440" y="523" font-size="16" fill="#f2d94a">Systems Intern:</text>
+<text x="1100" y="523" font-size="16" fill="#e8e8e8" text-anchor="end">C-DAC Chennai</text>
+<line x1="596.0" y1="519" x2="963.2" y2="519" stroke="#7d8590" stroke-dasharray="1 6" stroke-linecap="round"/>
+<text x="440" y="549" font-size="16" fill="#f2d94a">Publication:</text>
+<text x="1100" y="549" font-size="16" fill="#e8e8e8" text-anchor="end">IEEE · IoT Backpack Load Alert</text>
+<line x1="567.2" y1="545" x2="800.0" y2="545" stroke="#7d8590" stroke-dasharray="1 6" stroke-linecap="round"/>
+<rect x="10" y="580" width="440" height="200" fill="#0b0b0b" stroke="#252525"/>
+<text x="20" y="594" font-size="12" fill="#c5ff4a" text-anchor="middle">+</text>
+<text x="440" y="594" font-size="12" fill="#c5ff4a" text-anchor="middle">+</text>
+<text x="40" y="616" font-size="14" fill="#7d8590" letter-spacing="3">[ CORE LANGUAGES ]</text>
+<circle cx="44" cy="655" r="6" fill="#3572A5"/><text x="60" y="660" font-size="16" fill="#e8e8e8">Python</text>
+<circle cx="249" cy="655" r="6" fill="#3178c6"/><text x="265" y="660" font-size="16" fill="#e8e8e8">TypeScript</text>
+<circle cx="44" cy="695" r="6" fill="#f1e05a"/><text x="60" y="700" font-size="16" fill="#e8e8e8">JavaScript</text>
+<circle cx="249" cy="695" r="6" fill="#8c8c8c"/><text x="265" y="700" font-size="16" fill="#e8e8e8">C</text>
+<circle cx="44" cy="735" r="6" fill="#e38c00"/><text x="60" y="740" font-size="16" fill="#e8e8e8">SQL</text>
+<circle cx="249" cy="735" r="6" fill="#e34c26"/><text x="265" y="740" font-size="16" fill="#e8e8e8">HTML/CSS</text>
+<rect x="465" y="580" width="665" height="200" fill="#0b0b0b" stroke="#252525"/>
+<text x="475" y="594" font-size="12" fill="#c5ff4a" text-anchor="middle">+</text>
+<text x="1120" y="594" font-size="12" fill="#c5ff4a" text-anchor="middle">+</text>
+<text x="495" y="616" font-size="14" fill="#7d8590" letter-spacing="3">[ TECHNOLOGIES &amp; SKILLS ]</text>
+<rect x="497" y="635" width="54" height="54" rx="10" fill="#3776ab"/><text x="524" y="669" font-size="20" font-weight="bold" fill="#fff" text-anchor="middle">Py</text>
+<rect x="567" y="635" width="54" height="54" rx="10" fill="#3178c6"/><text x="594" y="669" font-size="20" font-weight="bold" fill="#fff" text-anchor="middle">TS</text>
+<rect x="637" y="635" width="54" height="54" rx="10" fill="#f7df1e"/><text x="664" y="669" font-size="20" font-weight="bold" fill="#000" text-anchor="middle">JS</text>
+<rect x="707" y="635" width="54" height="54" rx="10" fill="#00599c"/><text x="734" y="669" font-size="20" font-weight="bold" fill="#fff" text-anchor="middle">C</text>
+<rect x="777" y="635" width="54" height="54" rx="10" fill="#20232a"/><text x="804" y="669" font-size="20" font-weight="bold" fill="#61dafb" text-anchor="middle">Re</text>
+<rect x="847" y="635" width="54" height="54" rx="10" fill="#000"/><text x="874" y="669" font-size="20" font-weight="bold" fill="#fff" text-anchor="middle">Nx</text>
+<rect x="917" y="635" width="54" height="54" rx="10" fill="#059669"/><text x="944" y="669" font-size="20" font-weight="bold" fill="#fff" text-anchor="middle">Fa</text>
+<rect x="987" y="635" width="54" height="54" rx="10" fill="#ee4c2c"/><text x="1014" y="669" font-size="20" font-weight="bold" fill="#fff" text-anchor="middle">PT</text>
+<rect x="497" y="701" width="54" height="54" rx="10" fill="#2496ed"/><text x="524" y="735" font-size="20" font-weight="bold" fill="#fff" text-anchor="middle">Dk</text>
+<rect x="567" y="701" width="54" height="54" rx="10" fill="#336791"/><text x="594" y="735" font-size="20" font-weight="bold" fill="#fff" text-anchor="middle">PG</text>
+<rect x="637" y="701" width="54" height="54" rx="10" fill="#ff6f00"/><text x="664" y="735" font-size="20" font-weight="bold" fill="#fff" text-anchor="middle">Tf</text>
+<rect x="707" y="701" width="54" height="54" rx="10" fill="#5c3ee8"/><text x="734" y="735" font-size="20" font-weight="bold" fill="#fff" text-anchor="middle">Cv</text>
+<rect x="777" y="701" width="54" height="54" rx="10" fill="#444"/><text x="804" y="735" font-size="20" font-weight="bold" fill="#fff" text-anchor="middle">Fl</text>
+<rect x="847" y="701" width="54" height="54" rx="10" fill="#f05032"/><text x="874" y="735" font-size="20" font-weight="bold" fill="#fff" text-anchor="middle">Gi</text>
+<rect x="917" y="701" width="54" height="54" rx="10" fill="#222"/><text x="944" y="735" font-size="20" font-weight="bold" fill="#fcc624" text-anchor="middle">Lx</text>
+<text x="497" y="771" font-size="11" fill="#7d8590">Py · TS · JS · C · React · Next · FastAPI · PyTorch · Docker · Postgres · TF · OpenCV · Flask · Git · Linux</text>
+</svg>
