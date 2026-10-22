@@ -110,7 +110,7 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **[Applivo](https://applivo.in)** | Full-stack SaaS platform for discovering opportunities & automating applications, self-hosted on Oracle Cloud ARM VM | Python · FastAPI · Next.js · Docker Compose |
-| **[OrbitXOS](orbitxos-5b09.onrender.com)** | Futuristic space-inspired interactive web dashboard with seamless backend AI | JavaScript · React · Vite · Tailwind CSS |
+| **[OrbitXOS](https://orbitxos-5b09.onrender.com)** | Futuristic space-inspired interactive web dashboard with seamless backend AI | JavaScript · React · Vite · Tailwind CSS |
 | **[digiverify-ai](https://digiverify-ai-6.onrender.com)** | AI-powered digital verification system | Python |
 | **[Skin Disease Classifier](https://skinscanai.vercel.app/)** | Computer vision model for skin disease classification | Python · TensorFlow / PyTorch |
 | **[Predicting Student Performance with ML](https://predicting-student-performance-with.onrender.com)** | Machine learning model to predict student academic performance | Python · Jupyter Notebook · Sklearn |
@@ -135,12 +135,25 @@
 | Degree | Institution | Period | CGPA |
 |--------|-------------|--------|------|
 | **B.Tech, CSE (AI & ML)** | SRM Institute of Science and Technology (SRMIST) | 2023 – 2027 | 8.32 / 10 |
+
 ---
 
 ## Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shanky-ux/shanky-ux/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## PR Merges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pull%20Requests-Merged-00C9A7?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shanky-ux&show_icons=true&theme=dark&hide_border=true&bg_color=0F2027&title_color=00C9A7&icon_color=00C9A7&text_color=ffffff&custom_title=GitHub%20Contributions"/>
 </p>
 
 ---
