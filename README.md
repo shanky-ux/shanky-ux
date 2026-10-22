@@ -1,3 +1,4 @@
+
 <!-- ===================== HEADER ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0F2027&height=120&section=header&text=Ravi%20Shankar&fontSize=40&fontColor=ffffff"/>
 
@@ -149,11 +150,15 @@
 ## PR Merges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pull%20Requests-Merged-00C9A7?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Ashanky-ux">
+    <img src="https://img.shields.io/badge/View%20My-Merged%20Pull%20Requests-00C9A7?style=for-the-badge&logo=github&logoColor=white" alt="View My Merged Pull Requests"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanky-ux&show_icons=true&theme=dark&hide_border=true&bg_color=0F2027&title_color=00C9A7&icon_color=00C9A7&text_color=ffffff&custom_title=GitHub%20Contributions"/>
+  <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Ashanky-ux">
+    **Click here to explore all my merged pull requests →**
+  </a>
 </p>
 
 ---
