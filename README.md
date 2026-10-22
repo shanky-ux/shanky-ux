@@ -5,49 +5,75 @@
 </picture>
 
 <div align="center">
+  <a href="https://ravish4nkar.vercel.app">
+    <img src="https://github.com/shanky-ux.png" width="96" height="96" alt="Ravi Shankar" />
+  </a>
 
   <h1>Ravi Shankar</h1>
 
   <p>
     <b>Where machine learning meets shipped product.</b><br />
-    Building intelligent systems from model → API → interface → deployment.
-  </p>
-
-  <p>
-    <img src="https://readme-typing-svg.demolab.com/?font=Inter&size=22&duration=2500&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Machine+Learning+Engineer;Full-Stack+Developer;Open-Source+Contributor" alt="Typing SVG" />
+    AI / ML & Full-Stack Engineer building products from model → API → interface → deployment.
   </p>
 
   <p>
     <a href="https://github.com/shanky-ux?tab=followers"><img src="https://img.shields.io/github/followers/shanky-ux?style=for-the-badge&logo=github&color=2DD4BF&logoColor=2DD4BF&labelColor=060606" alt="Followers" /></a>
-    <a href="https://github.com/shanky-ux?tab=repositories"><img src="https://img.shields.io/badge/Repos-Browse-2DD4BF?style=for-the-badge&logo=github&logoColor=2DD4BF&labelColor=060606" alt="Repositories" /></a>
+    <a href="https://github.com/shanky-ux?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-2DD4BF?style=for-the-badge&logo=github&logoColor=2DD4BF&labelColor=060606" alt="Repositories" /></a>
     <a href="https://github.com/search?q=author%3Ashanky-ux+type%3Apr+is%3Amerged&type=pullrequests"><img src="https://img.shields.io/badge/Merged%20PRs-View-2DD4BF?style=for-the-badge&logo=git&logoColor=2DD4BF&labelColor=060606" alt="Merged PRs" /></a>
     <a href="https://leetcode.com/ravishankar07/"><img src="https://img.shields.io/badge/LeetCode-Profile-2DD4BF?style=for-the-badge&logo=leetcode&logoColor=2DD4BF&labelColor=060606" alt="LeetCode" /></a>
+    <a href="https://ravish4nkar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-2DD4BF?style=for-the-badge&logo=vercel&logoColor=2DD4BF&labelColor=060606" alt="Portfolio" /></a>
   </p>
 
   <p>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.x-060606?style=flat-square&logo=python&logoColor=2DD4BF" alt="Python" /></a>
     <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-060606?style=flat-square&logo=pytorch&logoColor=2DD4BF" alt="PyTorch" /></a>
     <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-060606?style=flat-square&logo=fastapi&logoColor=2DD4BF" alt="FastAPI" /></a>
     <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-060606?style=flat-square&logo=nextdotjs&logoColor=2DD4BF" alt="Next.js" /></a>
     <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-060606?style=flat-square&logo=react&logoColor=2DD4BF" alt="React" /></a>
     <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-060606?style=flat-square&logo=typescript&logoColor=2DD4BF" alt="TypeScript" /></a>
+    <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind-060606?style=flat-square&logo=tailwindcss&logoColor=2DD4BF" alt="Tailwind" /></a>
     <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-060606?style=flat-square&logo=docker&logoColor=2DD4BF" alt="Docker" /></a>
+    <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GCP-060606?style=flat-square&logo=googlecloud&logoColor=2DD4BF" alt="GCP" /></a>
   </p>
 
   <p>
-    <a href="https://ravish4nkar.vercel.app">Portfolio</a> •
+    <a href="https://ravish4nkar.vercel.app">Launch Portfolio</a> •
     <a href="#how-i-build">How I Build</a> •
-    <a href="#tech-stack">Tech Stack</a> •
     <a href="#recognition">Recognition</a> •
     <a href="#selected-projects">Projects</a> •
     <a href="#experience">Experience</a> •
+    <a href="#tech-stack">Tech Stack</a> •
     <a href="#open-source">Open Source</a> •
-    <a href="#connect">Connect</a>
+    <a href="#get-in-touch">Get in Touch</a>
   </p>
 </div>
 
 ---
 
-> **B.Tech CSE (AI & ML)** · SRM Institute of Science and Technology · Chennai, India
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&size=22&duration=2500&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Machine+Learning+Engineer;Full-Stack+Developer;Open-Source+Contributor" alt="Typing SVG" />
+</div>
+
+> **B.Tech CSE (AI & ML)** · SRM Institute of Science and Technology · Chennai, India  
+> **No setup needed to start:** explore everything live at **[ravish4nkar.vercel.app](https://ravish4nkar.vercel.app)**.
+
+---
+
+### 🧠 Machine Learning
+
+Train, evaluate, and optimize models in PyTorch, TensorFlow, and scikit-learn, from skin disease classification to student performance prediction and fraud detection.
+
+### ⚙️ Backend & APIs
+
+Serve models and business logic through FastAPI, Flask, and Node.js, backed by PostgreSQL, MySQL, and SQLite.
+
+### 🖥️ Full-Stack Interfaces
+
+Ship responsive products with React, Next.js, TypeScript, Vite, and Tailwind, including 3D and mapping interfaces with Cesium.
+
+### ⚡ Deployment & Systems
+
+Containerize with Docker Compose and deploy to Oracle Cloud, GCP, Vercel, and Render, with Linux systems experience from C-DAC.
 
 ---
 
@@ -67,57 +93,21 @@ flowchart LR
     style D fill:#060606,stroke:#2DD4BF,stroke-width:1px,color:#2DD4BF
 ```
 
----
+### 1. Model
 
-## Tech Stack
+Prototype in Jupyter with NumPy, Pandas, and OpenCV. Train with PyTorch, TensorFlow, or scikit-learn, and evaluate before anything ships.
 
-<table align="center">
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /><br>C</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" /><br>TypeScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br>React</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br>Next.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" /><br>Vite</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br>PyTorch</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br>TensorFlow</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" /><br>OpenCV</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" /><br>Scikit-learn</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" /><br>NumPy</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" /><br>Pandas</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" /><br>Jupyter</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br>FastAPI</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br>Flask</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>Node.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br>HTML5</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br>Tailwind</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=capacitor" width="48" height="48" alt="Capacitor" /><br>Capacitor</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br>Express</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /><br>SQLite</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>Linux</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>GitHub</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" /><br>GCP</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=oracle" width="48" height="48" alt="Oracle" /><br>Oracle</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" /><br>Arduino</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" /><br>Raspberry Pi</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" /><br>Android Studio</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>VS Code</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" /><br>npm</td>
-  </tr>
-</table>
+### 2. API
+
+Wrap the model in a FastAPI or Flask service with a clean contract, so any interface can consume it.
+
+### 3. Interface
+
+Build the product UI in Next.js or React with TypeScript and Tailwind, connected to the API.
+
+### 4. Deploy
+
+Package with Docker Compose, then deploy to Oracle Cloud, Vercel, or Render.
 
 ---
 
@@ -222,15 +212,47 @@ Batch prediction pipeline for customer churn forecasting.
 
 ---
 
-## Open Source
+## Tech Stack
 
-Contributing to open-source projects including **Token Print** and **Telex**.
-
-<a href="https://github.com/search?q=author%3Ashanky-ux+type%3Apr+is%3Amerged&type=pullrequests"><img src="https://img.shields.io/badge/Merged%20Pull%20Requests-View-2DD4BF?style=for-the-badge&logo=github&logoColor=white" alt="Merged Pull Requests" /></a>
+| Category | Technologies |
+| :------- | :----------- |
+| **Languages** | `Python` `C` `JavaScript` `TypeScript` `HTML5` |
+| **ML / AI** | `PyTorch` `TensorFlow` `OpenCV` `Scikit-learn` `NumPy` `Pandas` `Jupyter` |
+| **Frontend** | `React` `Next.js` `Vite` `Tailwind` `Capacitor` |
+| **Backend** | `FastAPI` `Flask` `Node.js` `Express` |
+| **Databases** | `PostgreSQL` `MySQL` `SQLite` |
+| **DevOps & Cloud** | `Docker` `Linux` `Git` `GitHub` `GCP` `Oracle Cloud` |
+| **Hardware** | `Arduino` `Raspberry Pi` |
+| **Tools** | `VS Code` `Android Studio` `npm` |
 
 ---
 
-## GitHub Statistics
+## Open Source
+
+Contributions make the open-source community thrive. I contribute to projects including **Token Print** and **Telex**, following this workflow:
+
+```bash
+# 1. Fork the repository on GitHub, then clone your fork
+git clone https://github.com/shanky-ux/<repository>.git
+cd <repository>
+
+# 2. Create a descriptive feature/fix branch
+git checkout -b feat/my-contribution
+
+# 3. Make your changes, verify, and commit
+git commit -m "feat: describe your change"
+
+# 4. Push to your branch and open a Pull Request
+git push origin feat/my-contribution
+```
+
+<div align="center">
+  <a href="https://github.com/search?q=author%3Ashanky-ux+type%3Apr+is%3Amerged&type=pullrequests"><img src="https://img.shields.io/badge/Merged%20Pull%20Requests-View-2DD4BF?style=for-the-badge&logo=github&logoColor=white" alt="Merged Pull Requests" /></a>
+</div>
+
+---
+
+## 📈 GitHub Statistics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanky-ux&theme=github_dark&animation=load" width="700" />
@@ -246,13 +268,9 @@ Contributing to open-source projects including **Token Print** and **Telex**.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shanky-ux&theme=github_dark&animation=load" width="330" />
 </div>
 
-### Activity
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanky-ux&bg_color=0D1117&color=58A6FF&line=2DD4BF&point=FFFFFF&area=true&hide_border=true" width="95%" />
 </div>
-
-### Contributions
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanky-ux&theme=github-dark-blue&hide_border=true" width="700" />
@@ -260,7 +278,7 @@ Contributing to open-source projects including **Token Print** and **Telex**.
 
 ---
 
-## Connect
+## Get in Touch
 
 <div align="center">
   <a href="https://ravish4nkar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2DD4BF?style=for-the-badge" alt="Portfolio" /></a>
@@ -276,5 +294,5 @@ Contributing to open-source projects including **Token Print** and **Telex**.
 </div>
 
 <div align="center">
-  <sub><i>Building intelligent systems, shipping real products, and learning in public.</i></sub>
+  <sub>Building intelligent systems, shipping real products, and learning in public.</sub>
 </div>
