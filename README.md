@@ -40,13 +40,11 @@
   <p>
     <a href="https://ravish4nkar.vercel.app">Launch Portfolio</a> •
     <a href="#about-me">About Me</a> •
-    <a href="#how-i-build">How I Build</a> •
     <a href="#achievements--events">Achievements</a> •
     <a href="#featured-projects">Projects</a> •
     <a href="#experience">Experience</a> •
     <a href="#education">Education</a> •
     <a href="#tech-stack">Tech Stack</a> •
-    <a href="#open-source">Open Source</a> •
     <a href="#get-in-touch">Get in Touch</a>
   </p>
 </div>
@@ -93,40 +91,6 @@ Build hardware-backed systems with Arduino and Raspberry Pi, including a YUVA Na
 ### ⚡ Deployment & Systems
 
 Containerize with Docker Compose and deploy to Oracle Cloud ARM VMs, GCP, Vercel, and Render, with Linux systems experience from C-DAC.
-
----
-
-## How I Build
-
-Every project follows the same pipeline: train the model, wrap it in an API, ship an interface, deploy it live.
-
-```mermaid
-flowchart LR
-    A["🧠 Model<br/>(PyTorch · scikit-learn)"] -->|"Serve"| B["⚙️ API<br/>(FastAPI · Flask)"]
-    B -->|"Consume"| C["🖥️ Interface<br/>(Next.js · React)"]
-    C -->|"Ship"| D["🚀 Deployment<br/>(Docker · Vercel · Render · Oracle Cloud)"]
-
-    style A fill:#1f1f1f,stroke:#00C9A7,stroke-width:1px,color:#ffffff
-    style B fill:#0F2027,stroke:#252525,stroke-width:1px,color:#00C9A7
-    style C fill:#1f1f1f,stroke:#252525,stroke-width:1px,color:#ffffff
-    style D fill:#0F2027,stroke:#00C9A7,stroke-width:1px,color:#00C9A7
-```
-
-### 1. Model
-
-Prototype in Jupyter with NumPy, Pandas, and OpenCV. Train with PyTorch, TensorFlow, or scikit-learn, and evaluate before anything ships.
-
-### 2. API
-
-Wrap the model in a FastAPI or Flask service with a clean contract, so any interface can consume it.
-
-### 3. Interface
-
-Build the product UI in Next.js or React with TypeScript and Tailwind, connected to the API.
-
-### 4. Deploy
-
-Package with Docker Compose, then deploy to Oracle Cloud, Vercel, or Render.
 
 ---
 
@@ -302,31 +266,6 @@ Dark space-tech aesthetic with glassmorphism.
 </td>
   </tr>
 </table>
-
----
-
-## Open Source
-
-Contributions make the open-source community thrive. I contribute to projects including **Token Print** and **Telex**, following this workflow:
-
-```bash
-# 1. Fork the repository on GitHub, then clone your fork
-git clone https://github.com/shanky-ux/<repository>.git
-cd <repository>
-
-# 2. Create a descriptive feature/fix branch
-git checkout -b feat/my-contribution
-
-# 3. Make your changes, verify, and commit
-git commit -m "feat: describe your change"
-
-# 4. Push to your branch and open a Pull Request
-git push origin feat/my-contribution
-```
-
-<div align="center">
-  <a href="https://github.com/search?q=author%3Ashanky-ux+type%3Apr+is%3Amerged&type=pullrequests"><img src="https://img.shields.io/badge/Merged%20Pull%20Requests-View-00C9A7?style=for-the-badge&logo=github&logoColor=white" alt="Merged Pull Requests" /></a>
-</div>
 
 ---
 
