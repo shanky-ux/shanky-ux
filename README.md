@@ -1,256 +1,298 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shanky-ux/shanky-ux/main/profiles/default/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shanky-ux/shanky-ux/main/profiles/default/light.svg" />
+  <img alt="Ravi Shankar - GitAscii Profile" src="https://raw.githubusercontent.com/shanky-ux/shanky-ux/main/profiles/default/dark.svg" width="100%" />
+</picture>
+
 <div align="center">
-  <a href="https://gitascii.com">
-    <img src="public/icon-512.png" width="96" height="96" alt="GitAscii Logo" />
+  <a href="https://ravish4nkar.vercel.app">
+    <img src="https://github.com/shanky-ux.png" width="96" height="96" alt="Ravi Shankar" />
   </a>
 
-  <h1>GitAscii</h1>
+  <h1>Ravi Shankar</h1>
 
   <p>
-    <b>Where cryptic terminals meet editorial broadsheet design.</b><br />
-    Design a GitHub profile in your browser and publish self-contained ASCII and widget SVGs to your own repository.
+    <b>Where machine learning meets shipped product.</b><br />
+    AI / ML & Full-Stack Engineer building products from model → API → interface → deployment.
   </p>
 
   <p>
-    <a href="https://github.com/Igorcbraz/GitAscii/stargazers"><img src="https://img.shields.io/github/stars/Igorcbraz/GitAscii?style=for-the-badge&logo=star&color=c5ff4a&logoColor=c5ff4a&labelColor=060606" alt="GitHub Stars" /></a>
-    <a href="https://github.com/Igorcbraz/GitAscii/releases"><img src="https://img.shields.io/github/v/release/Igorcbraz/GitAscii?style=for-the-badge&logo=github&color=c5ff4a&logoColor=c5ff4a&labelColor=060606" alt="Release" /></a>
-    <a href="https://github.com/Igorcbraz/GitAscii/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/Igorcbraz/GitAscii/ci.yml?branch=main&style=for-the-badge&logo=githubactions&logoColor=c5ff4a&label=CI&color=c5ff4a&labelColor=060606" alt="CI Status" /></a>
-    <a href="https://github.com/Igorcbraz/GitAscii/actions/workflows/codeql.yml"><img src="https://img.shields.io/github/actions/workflow/status/Igorcbraz/GitAscii/codeql.yml?branch=main&style=for-the-badge&logo=github&logoColor=c5ff4a&label=CodeQL&color=c5ff4a&labelColor=060606" alt="CodeQL" /></a>
-    <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-c5ff4a?style=for-the-badge&logo=opensourceinitiative&logoColor=060606&labelColor=060606" alt="License GPLv3" /></a>
+    <a href="https://github.com/shanky-ux?tab=followers"><img src="https://img.shields.io/github/followers/shanky-ux?style=for-the-badge&logo=github&color=2DD4BF&logoColor=2DD4BF&labelColor=060606" alt="Followers" /></a>
+    <a href="https://github.com/shanky-ux?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-2DD4BF?style=for-the-badge&logo=github&logoColor=2DD4BF&labelColor=060606" alt="Repositories" /></a>
+    <a href="https://github.com/search?q=author%3Ashanky-ux+type%3Apr+is%3Amerged&type=pullrequests"><img src="https://img.shields.io/badge/Merged%20PRs-View-2DD4BF?style=for-the-badge&logo=git&logoColor=2DD4BF&labelColor=060606" alt="Merged PRs" /></a>
+    <a href="https://leetcode.com/ravishankar07/"><img src="https://img.shields.io/badge/LeetCode-Profile-2DD4BF?style=for-the-badge&logo=leetcode&logoColor=2DD4BF&labelColor=060606" alt="LeetCode" /></a>
+    <a href="https://ravish4nkar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-2DD4BF?style=for-the-badge&logo=vercel&logoColor=2DD4BF&labelColor=060606" alt="Portfolio" /></a>
   </p>
 
   <p>
-    <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-16.3-060606?style=flat-square&logo=nextdotjs&logoColor=c5ff4a" alt="Next.js" /></a>
-    <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-19.0-060606?style=flat-square&logo=react&logoColor=c5ff4a" alt="React" /></a>
-    <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind-4.0-060606?style=flat-square&logo=tailwindcss&logoColor=c5ff4a" alt="Tailwind" /></a>
-    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.7-060606?style=flat-square&logo=typescript&logoColor=c5ff4a" alt="TypeScript" /></a>
-    <a href="https://storybook.js.org/"><img src="https://img.shields.io/badge/Storybook-10.5-060606?style=flat-square&logo=storybook&logoColor=c5ff4a" alt="Storybook" /></a>
-    <a href="https://www.cloudflare.com/developer-platform/products/workers/"><img src="https://img.shields.io/badge/Cloudflare-Workers-f38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" /></a>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.x-060606?style=flat-square&logo=python&logoColor=2DD4BF" alt="Python" /></a>
+    <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-060606?style=flat-square&logo=pytorch&logoColor=2DD4BF" alt="PyTorch" /></a>
+    <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-060606?style=flat-square&logo=fastapi&logoColor=2DD4BF" alt="FastAPI" /></a>
+    <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-060606?style=flat-square&logo=nextdotjs&logoColor=2DD4BF" alt="Next.js" /></a>
+    <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-060606?style=flat-square&logo=react&logoColor=2DD4BF" alt="React" /></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-060606?style=flat-square&logo=typescript&logoColor=2DD4BF" alt="TypeScript" /></a>
+    <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind-060606?style=flat-square&logo=tailwindcss&logoColor=2DD4BF" alt="Tailwind" /></a>
+    <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-060606?style=flat-square&logo=docker&logoColor=2DD4BF" alt="Docker" /></a>
+    <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GCP-060606?style=flat-square&logo=googlecloud&logoColor=2DD4BF" alt="GCP" /></a>
   </p>
 
   <p>
-    <a href="https://gitascii.com">Launch Web App</a> •
-    <a href="#how-it-works">How It Works</a> •
-    <a href="#quickstart">Quickstart</a> •
-    <a href="docs/introduction.mdx">Documentation</a> •
-    <a href="#adding-new-community-templates">Creating Templates</a> •
-    <a href="#developer-scripts">Developer Scripts</a> •
-    <a href="#contributing">Contributing</a>
+    <a href="https://ravish4nkar.vercel.app">Launch Portfolio</a> •
+    <a href="#how-i-build">How I Build</a> •
+    <a href="#recognition">Recognition</a> •
+    <a href="#selected-projects">Projects</a> •
+    <a href="#experience">Experience</a> •
+    <a href="#tech-stack">Tech Stack</a> •
+    <a href="#open-source">Open Source</a> •
+    <a href="#get-in-touch">Get in Touch</a>
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <video src="https://github.com/Igorcbraz/GitAscii/raw/main/public/presentation.mp4" controls="controls" width="100%"></video>
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&size=22&duration=2500&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Machine+Learning+Engineer;Full-Stack+Developer;Open-Source+Contributor" alt="Typing SVG" />
 </div>
 
-> **No setup needed to start:** Design and preview your GitHub profile live in your browser at **[gitascii.com](https://gitascii.com/)**.
+> **B.Tech CSE (AI & ML)** · SRM Institute of Science and Technology · Chennai, India  
+> **No setup needed to start:** explore everything live at **[ravish4nkar.vercel.app](https://ravish4nkar.vercel.app)**.
 
 ---
 
-### 🎛️ Visual Drag-and-Drop Builder
+### 🧠 Machine Learning
 
-Build your complete profile layout intuitively on a real-time reactive canvas. Move, resize, and configure telemetry decks, terminal metrics, and ASCII avatars directly in the browser.
+Train, evaluate, and optimize models in PyTorch, TensorFlow, and scikit-learn, from skin disease classification to student performance prediction and fraud detection.
 
-<div align="center">
-  <img src="public/editor.webp" alt="GitAscii Visual Editor" width="100%" />
-</div>
+### ⚙️ Backend & APIs
 
-<br />
+Serve models and business logic through FastAPI, Flask, and Node.js, backed by PostgreSQL, MySQL, and SQLite.
 
-### 📰 The Landing Platform
+### 🖥️ Full-Stack Interfaces
 
-A classified broadsheet aesthetic engineered with brutalist minimalism, monospaced data streams, and high-contrast signal lime accents.
+Ship responsive products with React, Next.js, TypeScript, Vite, and Tailwind, including 3D and mapping interfaces with Cesium.
 
-<div align="center">
-  <img src="public/hero.webp" alt="GitAscii Landing Page" width="100%" />
-</div>
+### ⚡ Deployment & Systems
 
-<br />
-
-### ⚡ Published SVG Output
-
-What your GitHub profile actually renders: self-contained dark and light SVG files generated when you publish and refreshed by a GitHub Action. The README uses a `<picture>` element to select the viewer's theme.
-
-<div align="center">
-  <img src="public/example.svg" alt="Generated GitAscii Profile SVG" width="100%" />
-</div>
+Containerize with Docker Compose and deploy to Oracle Cloud, GCP, Vercel, and Render, with Linux systems experience from C-DAC.
 
 ---
 
-## How It Works
+## How I Build
 
-GitAscii v2 publishes self-contained SVG files to a dedicated `gitascii` branch in your GitHub profile repository (`username/username`). A GitHub Action refreshes them from current GitHub data. The normal README embed loads those files from GitHub:
+Every project follows the same pipeline: train the model, wrap it in an API, ship an interface, deploy it live.
 
 ```mermaid
 flowchart LR
-    A["🎛️ GitAscii Web Editor<br/>(Design Layout)"] -->|"Publish"| B["🌿 gitascii branch<br/>(Config + SVGs)"]
-    B -->|"GitHub Action refresh"| C["📄 profiles/slug/*.svg"]
-    C -->|"raw.githubusercontent.com"| E["🖼️ Profile README.md<br/>(Rendered by GitHub)"]
+    A["🧠 Model<br/>(PyTorch · scikit-learn)"] -->|"Serve"| B["⚙️ API<br/>(FastAPI · Flask)"]
+    B -->|"Consume"| C["🖥️ Interface<br/>(Next.js · React)"]
+    C -->|"Ship"| D["🚀 Deployment<br/>(Docker · Vercel · Render · Oracle Cloud)"]
 
-    style A fill:#1f1f1f,stroke:#c5ff4a,stroke-width:1px,color:#ffffff
-    style B fill:#060606,stroke:#252525,stroke-width:1px,color:#c5ff4a
+    style A fill:#1f1f1f,stroke:#2DD4BF,stroke-width:1px,color:#ffffff
+    style B fill:#060606,stroke:#252525,stroke-width:1px,color:#2DD4BF
     style C fill:#1f1f1f,stroke:#252525,stroke-width:1px,color:#ffffff
-    style E fill:#060606,stroke:#c5ff4a,stroke-width:1px,color:#c5ff4a
+    style D fill:#060606,stroke:#2DD4BF,stroke-width:1px,color:#2DD4BF
 ```
 
-### 1. Design & Publish
+### 1. Model
 
-Compose your layout in the [Visual Editor](https://gitascii.com). Sign in, authorize the GitHub App for your profile repository, and use **Publish to GitHub**. GitAscii creates the repository if needed and creates or updates:
+Prototype in Jupyter with NumPy, Pandas, and OpenCV. Train with PyTorch, TensorFlow, or scikit-learn, and evaluate before anything ships.
 
-- the dedicated `gitascii` branch;
-- `gitascii.json` for the default profile and `gitascii_[slug].json` for additional profiles;
-- dark and light SVG files under `profiles/[slug]/`;
-- `.github/workflows/gitascii.yml` on the default branch.
+### 2. API
 
-The app renders an initial dark/light pair at publication. The workflow then refreshes configured profiles on a schedule (daily for Free, with an hourly minimum for Pro) and can be dispatched manually. Its updates to the SVGs are atomic. Pro publication also enables authenticated, profile-scoped workflow health telemetry and a separate analytics badge in the README.
+Wrap the model in a FastAPI or Flask service with a clean contract, so any interface can consume it.
 
-### 2. Embed into your Profile `README.md`
+### 3. Interface
 
-The editor writes the generated embed to your profile repository's `README.md`; you can also copy it manually. Replace `yourusername` if using this example:
+Build the product UI in Next.js or React with TypeScript and Tailwind, connected to the API.
 
-```html
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://raw.githubusercontent.com/yourusername/yourusername/gitascii/profiles/default/dark.svg
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://raw.githubusercontent.com/yourusername/yourusername/gitascii/profiles/default/light.svg
-    "
-  />
-  <img
-    alt="GitAscii Profile"
-    src="https://raw.githubusercontent.com/yourusername/yourusername/gitascii/profiles/default/dark.svg"
-    width="100%"
-  />
-</picture>
-```
+### 4. Deploy
 
-The two URLs remain stable as the repository workflow updates their contents. Additional profiles use `profiles/[slug]/dark.svg` and `light.svg`.
-
-The HTTP rendering API (`/api/[username]`) remains available for previews, custom integrations, and Pro dynamic rules. It is not the default README embed.
-
-For Pro profiles, keep the generated GitAscii badge directly below the `<picture>`. Its analytics count badge fetches observed by GitAscii (usually GitHub Camo cache refreshes), **not exact human views or unique visitors**. GitHub's image proxy does not expose reliable viewer geography, browser, device, or identity. Pro health data comes separately from authenticated workflow runs.
+Package with Docker Compose, then deploy to Oracle Cloud, Vercel, or Render.
 
 ---
 
-## Adding New Community Templates
+## Recognition
 
-Want to share a custom layout with the community? Adding a new template takes two simple steps:
-
-1. **Export the Template JSON in the Editor:**  
-   Click the export template action in the sidebar. GitAscii automatically scrubs personal data (usernames, custom bio, avatars) while preserving the grid layout, widgets, and visual tokens.
-2. **Drop your JSON file into `src/data/templates/`:**  
-   Place your file as `src/data/templates/<template_name>.json` and register it in `src/data/templates/index.ts`. Open a Pull Request and your template will be available to all GitAscii users!
-
----
-
-## Quickstart
-
-Run your own instance of GitAscii locally:
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/Igorcbraz/GitAscii.git
-
-# 2. Navigate to the project directory
-cd GitAscii
-
-# 3. Install dependencies
-npm install
-
-# 4. Start the development server
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-Local browsing and editing work without connecting your own integrations. To test sign-in and **Publish to GitHub**, copy `.env.example` to `.env.local` and set the GitHub OAuth, GitHub App, and `SESSION_SECRET` values. Set `DATABASE_URL` for PostgreSQL persistence and the Upstash variables for Redis-backed features; Stripe and Resend are needed only for their respective Pro billing and email flows. The publisher writes to a GitHub profile repository, so use an account and repository intended for testing.
+| Award | Event | Details |
+| :---- | :---- | :------ |
+| 🏆 **1st Place** | CareHack'26 | AI / ML Hackathon · ₹30,000 prize + internship offer |
+| 🏆 **Winner** | YUVA National Hackathon | Hardware / IoT track |
+| 🥇 **Top 1%** | Amazon ML Challenge | Rank 62 / 6,223 |
+| 🏅 **4th Place** | DigiGreen Hackathon | — |
+| 📄 **Co-author** | IEEE Publication | IoT-based Backpack Load Alert System |
 
 ---
 
-## Developer Scripts
+## Selected Projects
 
-All available scripts configured in `package.json`:
+<table align="center">
+  <tr>
+    <td width="50%">
 
-| Command                   | Description                                                              |
-| :------------------------ | :----------------------------------------------------------------------- |
-| `npm run dev`             | Starts the Next.js local development server on port `3000`               |
-| `npm run build`           | Compiles the production build and verifies type definitions              |
-| `npm run start`           | Boots the compiled Next.js production server                             |
-| `npm run check`           | Runs `typecheck`, `lint`, `test`, and `build` in sequence                |
-| `npm run typecheck`       | Validates all TypeScript types across the codebase (`tsc --noEmit`)      |
-| `npm run lint`            | Analyzes code for issues and stylistic discrepancies using ESLint        |
-| `npm run lint:fix`        | Automatically fixes auto-fixable ESLint warnings and errors              |
-| `npm run format`          | Formats the entire codebase using Prettier                               |
-| `npm run format:check`    | Verifies whether all files conform to Prettier formatting rules          |
-| `npm run fix:all`         | Executes both `lint:fix` and `format` together for complete code cleanup |
-| `npm run test`            | Runs the full unit and integration test suite via **Vitest**             |
-| `npm run test:db`         | Runs the database-specific Vitest suite                                  |
-| `npm run build:action`    | Builds the bundled GitHub Action used to refresh published SVGs          |
-| `npm run test:e2e`        | Runs automated end-to-end browser tests via **Playwright**               |
-| `npm run test:e2e:ui`     | Opens the **Playwright** interactive UI mode for visual debugging        |
-| `npm run storybook`       | Launches the isolated UI widget and component workbench on port `6006`   |
-| `npm run build-storybook` | Compiles the Storybook workbench into a static production bundle         |
-| `npm run email:dev`       | Launches the React Email local preview server on port `3001`             |
-| `npm run docs`            | Launches the interactive documentation server locally via **Mintlify**   |
-| `npm run prepare`         | Configures Git hooks (pre-commit, commit-msg) via **Husky**              |
+### 🚀 Applivo
+
+AI-powered SaaS platform for opportunity discovery and application automation.
+
+**Stack:** FastAPI · Next.js · Docker Compose · Oracle Cloud
+
+<a href="https://applivo.in"><img src="https://img.shields.io/badge/Live%20Project-Visit-2DD4BF?style=flat-square" alt="Applivo" /></a>
+
+</td>
+<td width="50%">
+
+### 🧬 SkinScan AI
+
+ML-powered skin disease classification platform.
+
+**Stack:** PyTorch · FastAPI · Next.js
+
+<a href="https://skinscanai.vercel.app/"><img src="https://img.shields.io/badge/Live%20Project-Visit-2DD4BF?style=flat-square" alt="SkinScan AI" /></a>
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%">
+
+### 🛰️ OrbitXOS
+
+Interactive space debris tracking and collision-awareness platform.
+
+**Stack:** React · Vite · Tailwind · Cesium · Skyfield
+
+<a href="https://orbitxos-5b09.onrender.com"><img src="https://img.shields.io/badge/Live%20Project-Visit-2DD4BF?style=flat-square" alt="OrbitXOS" /></a>
+
+</td>
+<td width="50%">
+
+### 🔐 DigiVerify AI
+
+AI-powered digital verification and fraud detection platform.
+
+**Stack:** Python · Flask · MySQL
+
+<a href="https://digiverify-ai-6.onrender.com"><img src="https://img.shields.io/badge/Live%20Project-Visit-2DD4BF?style=flat-square" alt="DigiVerify AI" /></a>
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%">
+
+### 📊 Student Performance Predictor
+
+Machine learning system for predicting student academic performance.
+
+**Stack:** Python · Scikit-learn
+
+<a href="https://predicting-student-performance-with.onrender.com"><img src="https://img.shields.io/badge/Live%20Project-Visit-2DD4BF?style=flat-square" alt="Student Performance Predictor" /></a>
+
+</td>
+<td width="50%">
+
+### 📈 Customer Churn Prediction
+
+Batch prediction pipeline for customer churn forecasting.
+
+**Stack:** JavaScript · Vertex AI · BigQuery
+
+<a href="https://github.com/shanky-ux/Customer_Churn_BatchPrediction"><img src="https://img.shields.io/badge/GitHub-Repository-2DD4BF?style=flat-square&logo=github" alt="Customer Churn Prediction" /></a>
+
+</td>
+  </tr>
+</table>
 
 ---
 
-## Contributing
+## Experience
 
-Contributions make the open-source community thrive. Follow this step-by-step workflow to contribute:
+| Role | Organization | Focus |
+| :--- | :----------- | :---- |
+| ML Intern | Vdart | Artificial Intelligence / Machine Learning |
+| ML Intern | Prodigy InfoTech | Machine Learning · Model Optimization |
+| Systems Development Intern | C-DAC Chennai | Linux · Systems Development |
+
+---
+
+## Tech Stack
+
+| Category | Technologies |
+| :------- | :----------- |
+| **Languages** | `Python` `C` `JavaScript` `TypeScript` `HTML5` |
+| **ML / AI** | `PyTorch` `TensorFlow` `OpenCV` `Scikit-learn` `NumPy` `Pandas` `Jupyter` |
+| **Frontend** | `React` `Next.js` `Vite` `Tailwind` `Capacitor` |
+| **Backend** | `FastAPI` `Flask` `Node.js` `Express` |
+| **Databases** | `PostgreSQL` `MySQL` `SQLite` |
+| **DevOps & Cloud** | `Docker` `Linux` `Git` `GitHub` `GCP` `Oracle Cloud` |
+| **Hardware** | `Arduino` `Raspberry Pi` |
+| **Tools** | `VS Code` `Android Studio` `npm` |
+
+---
+
+## Open Source
+
+Contributions make the open-source community thrive. I contribute to projects including **Token Print** and **Telex**, following this workflow:
 
 ```bash
 # 1. Fork the repository on GitHub, then clone your fork
-git clone https://github.com/<your-username>/GitAscii.git
-cd GitAscii
+git clone https://github.com/shanky-ux/<repository>.git
+cd <repository>
 
-# 2. Install dependencies (initializes Husky hooks)
-npm install
+# 2. Create a descriptive feature/fix branch
+git checkout -b feat/my-contribution
 
-# 3. Create a descriptive feature/fix branch
-git checkout -b feat/my-awesome-feature
+# 3. Make your changes, verify, and commit
+git commit -m "feat: describe your change"
 
-# 4. Make your changes and verify code quality
-npm run check
-npm run test
-
-# 5. Commit using Conventional Commits format (enforced by Commitlint)
-git commit -m "feat(editor): add new ASCII matrix filter widget"
-
-# 6. Push to your branch and open a Pull Request
-git push origin feat/my-awesome-feature
+# 4. Push to your branch and open a Pull Request
+git push origin feat/my-contribution
 ```
 
-Please review our [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) before submitting a pull request.
-
 <div align="center">
- <img alt="contributors" src="https://contrib.rocks/image?repo=Igorcbraz/GitAscii" />
+  <a href="https://github.com/search?q=author%3Ashanky-ux+type%3Apr+is%3Amerged&type=pullrequests"><img src="https://img.shields.io/badge/Merged%20Pull%20Requests-View-2DD4BF?style=for-the-badge&logo=github&logoColor=white" alt="Merged Pull Requests" /></a>
 </div>
 
-## 📈 Star History
+---
+
+## 📈 GitHub Statistics
 
 <div align="center">
-  <a href="https://www.star-history.com/?repos=Igorcbraz%2FGitAscii&type=timeline&legend=top-left">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Igorcbraz/GitAscii&type=timeline&theme=dark&legend=top-left&sealed_token=WAD4KArNuQ379AYAAoB6NexJVTlM87nPSibH24PjWHA2xpmSsSX4eJWBlGiU9tbd-YClRBG7XZHaW6SSUVIv27QhMZxnEnV0KgKySkMm5E6C6-iPLWte26fmitbhcT-QChuroLPJjncYMEl-nBkNYlSu4p4g9u5WHKRep13NneGZ7iZaiq0ZngEy0b53" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Igorcbraz/GitAscii&type=timeline&legend=top-left&sealed_token=WAD4KArNuQ379AYAAoB6NexJVTlM87nPSibH24PjWHA2xpmSsSX4eJWBlGiU9tbd-YClRBG7XZHaW6SSUVIv27QhMZxnEnV0KgKySkMm5E6C6-iPLWte26fmitbhcT-QChuroLPJjncYMEl-nBkNYlSu4p4g9u5WHKRep13NneGZ7iZaiq0ZngEy0b53" />
-      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Igorcbraz/GitAscii&type=timeline&legend=top-left&sealed_token=WAD4KArNuQ379AYAAoB6NexJVTlM87nPSibH24PjWHA2xpmSsSX4eJWBlGiU9tbd-YClRBG7XZHaW6SSUVIv27QhMZxnEnV0KgKySkMm5E6C6-iPLWte26fmitbhcT-QChuroLPJjncYMEl-nBkNYlSu4p4g9u5WHKRep13NneGZ7iZaiq0ZngEy0b53" width="100%" />
-    </picture>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanky-ux&theme=github_dark&animation=load" width="700" />
 </div>
 
-## 📄 License
-
-Distributed under the **GNU General Public License v3.0 (GPLv3)**. See [`LICENSE`](LICENSE) for more information.
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanky-ux&theme=github_dark&animation=load" width="330" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shanky-ux&theme=github_dark&utcOffset=5.5&animation=load" width="330" />
+</div>
 
 <div align="center">
-  <sub>Engineered with design obsession by <a href="https://github.com/Igorcbraz"><b>@Igorcbraz</b></a>.</sub>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shanky-ux&theme=github_dark&animation=load" width="330" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shanky-ux&theme=github_dark&animation=load" width="330" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanky-ux&bg_color=0D1117&color=58A6FF&line=2DD4BF&point=FFFFFF&area=true&hide_border=true" width="95%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanky-ux&theme=github-dark-blue&hide_border=true" width="700" />
+</div>
+
+---
+
+## Get in Touch
+
+<div align="center">
+  <a href="https://ravish4nkar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2DD4BF?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ravi-shankar-b-77b5b9377/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:ravishankarx2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="https://leetcode.com/ravishankar07/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" /></a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shanky-ux&style=flat-square&color=2DD4BF" alt="Profile views" />
+</div>
+
+<div align="center">
+  <sub>Building intelligent systems, shipping real products, and learning in public.</sub>
 </div>
